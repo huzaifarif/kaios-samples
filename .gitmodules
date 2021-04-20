@@ -1,0 +1,16 @@
+[submodule "kaitimer"]
+	path = kaitimer
+	url = git@github.com:huzaifarif/kaitimer.git
+	branch = main
+[submodule "kainotes-webpack"]
+	path = kainotes-webpack
+	url = git@github.com:huzaifarif/kainotes-webpack.git
+	branch = main
+[submodule "kainotes-react"]
+	path = kainotes-react
+	url = git@github.com:huzaifarif/kainotes-react.git
+	branch = main
+[submodule "kainotes"]
+	path = kainotes
+	url = git@github.com:huzaifarif/kainotes.git
+	branch = main
